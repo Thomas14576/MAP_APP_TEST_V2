@@ -150,4 +150,3 @@ if input_url:
                     )
                 else:
                     st.warning("No visible points in the current map view. Zoom or pan to include data.")
-
